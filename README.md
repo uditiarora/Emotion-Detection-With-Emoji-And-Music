@@ -15,7 +15,7 @@ $ git clone https://github.com/uditiarora/Emotion-Detection-With-Emoji-And-Music
 ## Screenshots
 
 ##### Input
-![Input](./Screenshots/HumanFaces.jpg )
+![Input](./HumanFaces/Screesnhot_5.jpg )
 
 ##### Output
 ![Output](./Screenshots/Screenshot_6.jpg )
